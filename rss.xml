@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dungeons & Drunk Dragons]]></title>
         <description><![CDATA[Dungeons & Drunk Dragons]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dungeons-and-drunk-dragons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:19:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 02:51:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dungeons-and-drunk-dragons/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Prepare for an adventure like no other and steady your gaze as you embark on an experience known only as Dungeons and Drunk Dragons! Grab your bravest and thirstiest warriors as you join BUCKit List Events, Alternative Chicago Experience and Geek Bar Beta for a bar crawl like none other. For years our Kingdom has been cast in darkness, but out of that darkness came a group of heroes...those heroes could be you. You and your party will travel a dangerous path which will take you to 5 different taverns, each of with will have you facing other teams in skillful challenges that will garnish you points.The goal is to vanquish your enemies in these challenges which will give you safe passage to the next...if not then you will be forced to put your faith in the die as you decide which path you take to the next tavern. Upon vanquishing all your rivals you will be given the title of Guardians of the Kingdom and a pretty sweet bounty to go with it.</p>]]></description>
-            <link>undefinedc615ce53-f4c7-4a38-9fcc-958e87a2748f/index.html</link>
+            <link>https://thegrid.ai/dungeons-and-drunk-dragons/c615ce53-f4c7-4a38-9fcc-958e87a2748f/index.html</link>
             <guid isPermaLink="false">c615ce53-f4c7-4a38-9fcc-958e87a2748f</guid>
-            <pubDate>Mon, 14 Mar 2016 22:19:23 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 02:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
