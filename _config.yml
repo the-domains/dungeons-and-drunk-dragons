@@ -2,6 +2,7 @@ name: 'Dungeons & Drunk Dragons'
 favicon: null
 layout_spectrum: 0.01027265447191894
 typography_spectrum: 0.35046793543733656
+title: 'Dungeons & Drunk Dragons'
 cta:
   domain: null
   bucket: null
